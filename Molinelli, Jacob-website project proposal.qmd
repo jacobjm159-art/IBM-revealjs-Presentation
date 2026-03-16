@@ -1,0 +1,55 @@
+---
+title: "IBM Presentation"
+subtitle: "Proposal Presentation"
+author: "Jacob Molinelli"
+institute: "IBM 3202, Cal Poly Pomona"
+date: "`r Sys.Date()`"
+format: 
+  revealjs:
+    theme: sky
+    width: 1600
+    height: 900
+    footer: "IBM Presentation"
+    transition: slide
+    transition-speed: default
+    incremental: false
+    toc: true
+    toc-depth: 1
+    slide-number: true
+    scrollable: true
+    smaller: true
+    code-fold: false
+    code-overflow: wrap
+    number-sections: false
+    number-depth: 5
+    embed-resources: true
+    css: styles.css
+editor: visual
+execute: 
+  echo: true
+  freeze: auto
+---
+
+# Introduction
+
+I am Jacob Molinelli. I am a third-year marketing major with a minor in music. My passions include cars, music, and skateboarding. My goals are to study abroad in Paris, obtain an internship after I graduate, and gain audio engineering experience.
+
+# Marketing Project
+
+For my marketing project, I will implement data wrangling as we have learned in class. I also want to tie the project into one of my passions, as I am already familiar with their industries.
+
+# Using What I Learned
+
+-   I will implement a bibliography that contains all the references I use. This bibliography will be sorted.
+
+-   I will add a navigation menu to make the slides as accessible as possible. Users can go back to previous slides with ease and categorize them.
+
+-   I will add a footnote section to elaborate on specific details that would otherwise disrupt the flow of my bullet points.
+
+# Engagement
+
+-   Audiences will not learn as much if they are not engaged with the content of my presentation.
+
+-   I can utilize a print to pdf feature to allow the audience to download the presentation and view it offline.
+
+-   I can implement a CCS file to make text larger and easier to read. I can also add the ability to zoom in on slides to give the audience the option to enlarge portions of the presentation.
